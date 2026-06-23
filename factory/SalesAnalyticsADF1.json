@@ -1,0 +1,15 @@
+{
+	"name": "SalesAnalyticsADF1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bbe8de2-ffa2-4570-a45e-15f3ddf30710",
+		"tenantId": "cc5ba5ab-2327-40a6-8a78-cd5b579cd49c"
+	}
+}
